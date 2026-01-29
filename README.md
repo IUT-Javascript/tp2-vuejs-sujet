@@ -12,7 +12,9 @@ L'objectif de ce TP est de migrer le TP1 en VueJS (à l'exception de l'ajout d'a
 
 5) Mettre en place le composant `ArticleItem` qui sera affiché dans un composant `ArticleList`.
 
-6) Pour tester l'affichage des articles, mettre en place un `ArticleService` avec une méthode getArticles() qui retourne une liste d'article définie
+6) Pour tester l'affichage des articles, mettre en place un `ArticleService` avec une méthode `getArticles()` qui retourne une liste d'article définie
+
+7) modifier la méthode ``getArticles`` pour qu'elle récupère des articles depuis l'API suivante : https://jsonplaceholder.typicode.com/posts
 
 ## Ressources
 
