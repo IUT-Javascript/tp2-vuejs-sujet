@@ -10,7 +10,7 @@ L'objectif de ce TP est de migrer le TP1 en VueJS (à l'exception de l'ajout d'a
 
 4) Mettre en place le composant ArticleForm et toute sa logique métier (à l'exception de la création d'un article, à la place on le log)
 
-5) Mettre en place le composant `ArticleItem` qui sera affiché dans un composant `ArticleList`.
+5) Mettre en place le composant `ArticleItem` qui sera affiché dans un composant `ArticleList`. La liste des articles est à charger dans `ArticleList` et chaque article est à passer à `ArticleItem`.
 
 6) Pour tester l'affichage des articles, mettre en place un `ArticleService` avec une méthode `getArticles()` qui retourne une liste d'article définie
 
